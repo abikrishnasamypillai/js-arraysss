@@ -32,9 +32,4 @@ var alphabets=['a','e','i','o','u']
 let value=alphabets.includes('a')
 console.log(value);
 
-//slice
-
-var slice=('a-apple','b-ball','c-cat','d-dog','e-elephant')
-let 
-
 
